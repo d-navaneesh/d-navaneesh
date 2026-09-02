@@ -58,9 +58,6 @@ Building AI-driven applications, backend systems, and data-centric solutions.
 
 <div align="center">
 
-### Top Languages
-
-<img src="./assets/langimg.jpg" width="60%" />
 <br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=d-navaneesh&show_icons=true&hide_border=true&theme=dark" width="49%" />
@@ -68,6 +65,5 @@ Building AI-driven applications, backend systems, and data-centric solutions.
 
 <br><br>
 
-<img src="assets/skill-distribution.svg" width="60%" />
 
 </div>
